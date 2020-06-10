@@ -10,7 +10,7 @@ git config: Set or get configuration
 git log: Show history of project commits
 git show: Show a single commit
 git diff: Show the difference betweencommits, the working directory, and the staging area
-
+text
 
 # Commmit messages 
 
