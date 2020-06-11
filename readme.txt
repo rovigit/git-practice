@@ -43,3 +43,5 @@ git merge --no-commit  -no-off: Attempt to merge , but don't create an auto merg
 git branch --no-merged branch1: List branches that have unmerged commits
 git branch --merget master: List branches that have no unmerged commits
 
+## Other
+git diff --unified=0 1b0768c b8e70b0
