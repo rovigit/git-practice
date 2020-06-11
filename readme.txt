@@ -12,6 +12,9 @@ git show: Show a single commit
 git diff: Show the difference betweencommits, the working directory, and the staging area
 text
 
+git remote add origin https://github.com/
+git push -u origin master
+
 # Commmit messages 
 
 vim
@@ -20,3 +23,4 @@ First line should be clear, accurate, and concise
 Don't end with "."
 
 
+TExt
