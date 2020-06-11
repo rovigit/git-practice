@@ -27,9 +27,9 @@ git diff master log-show-diff
 git diff master
 git help diff
 git merge nameofbranche: Merge changes from different branches
-git remote add origin https://github.com/user/repository.git
-git remote -v 
-git push -u origin master
+git remote add origin https://github.com/user/repository.git:Add new remote
+git remote -v: List remote repositories 
+git push -u origin master 
 git push
 git pull
 
