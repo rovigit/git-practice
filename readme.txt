@@ -13,7 +13,7 @@ git config: Set or get configuration
 git log: Show history of project commits
 git branch: List branches
 git checkou -b : Create branch, then check it out
-git  stash: Stash changes from working directory
+git stash: Stash changes from working directory
 git stash list: List stashes
 git stat pop:  Apply stashed changes to workig directory
 git branch -v: Display Last commits in branches
@@ -39,7 +39,7 @@ git diff, git add, git commit
 git merge --abort: Abort an in-progress merge
 git log branch1..branch2: Log of commits in branch2 tehat don't ecist in branc1
 git log branch1...branch2: Log of commits in either branch but not both
-git  merge --no-commit  -no-off: Attempt to merge , but don't create an auto merge or ff merge
+git merge --no-commit  -no-off: Attempt to merge , but don't create an auto merge or ff merge
 git branch --no-merged branch1: List branches that have unmerged commits
 git branch --merget master: List branches that have no unmerged commits
 
