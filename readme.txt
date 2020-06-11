@@ -12,7 +12,7 @@ git show: Show a single commit
 git diff: Show the difference betweencommits, the working directory, and the staging area
 text
 
-git remote add origin https://github.com/
+git remote add origin https://github.com/rovigit/git-practice.git
 git push -u origin master
 
 # Commmit messages 
