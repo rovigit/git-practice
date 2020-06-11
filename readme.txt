@@ -29,9 +29,10 @@ git help diff
 git merge nameofbranche: Merge changes from different branches
 git remote add origin https://github.com/user/repository.git:Add new remote
 git remote -v: List remote repositories 
-git push -u origin master 
+git push -u <remote> <branch>: Push <branch> to <remote> and set default upstream for <branch> 
 git push
-git pull
+git fetch: Fetch changes form remote repository
+git pull: Fetch, and then merge
 
 
 ## Resolving Merge Conficts
